@@ -13,14 +13,12 @@
 * **Project Type:** Software Engineering Examination & Remuneration Automation System  
 
 ### 👤 Developed By
-* **Md Tahmid Hasib Antor** (Sole Architect & Developer) — **Student ID: IT24055**  
+* **Samiul Islam** (Sole Architect & Developer) — **Student ID: IT24055**  
   * **Department:** Department of Information and Communication Technology (ICT)  
   * **Faculty:** Faculty of Engineering  
   * **Institution:** Mawlana Bhashani Science and Technology University (MBSTU)  
-  * **Email:** `tahmidantor123@gmail.com` | `it24055@mbstu.ac.bd`  
-  * **GitHub Profile:** [@antor1112225](https://github.com/antor1112225)
-
----
+  * **Email:** `samiyoulmiah@gmail.com` | `it24011@mbstu.ac.bd`  
+  
 
 ## 📌 Executive Overview
 
